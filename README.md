@@ -16,7 +16,7 @@ composer install
 php artisan jwt:secret
 ```
 
-### Setting up JWT authentication
+### Setting up the log service
 You can add `LOG_NOTIFICATIONS_CHANNEL` into your `.env` file to customize log channel to use, otherwise default one will be used.  
 
 
